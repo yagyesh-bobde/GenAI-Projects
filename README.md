@@ -24,7 +24,8 @@ You can refer to the following articles on the basics of Git and Github.
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 <br>
 
-<div align="left" >
+<div align="left" style="margin-top:50px;">
+	
 ## 💥 How to Contribute to GenAI?
 
 - Take a look at the Existing [Issues](https://github.com/yagyesh-bobde/GenAI-Projects/issues) or create your own Issues!
@@ -38,6 +39,7 @@ git clone --depth 1 https://github.com/<your_user_name>/GenAI-Projects.git
 ```
 <br>
 </div>
+
 ## ❤️ Project Admin
 
 <table>
