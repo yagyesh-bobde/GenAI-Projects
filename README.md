@@ -12,6 +12,8 @@ A wide curration of open-source projects and applications in the emerging field 
 <img alt="genai" src="https://images.unsplash.com/photo-1677756119517-756a188d2d94?q=80&w=2050&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width=500 height=300>
 <br>
 
+<div align="left" style="margin-top:50px;">
+
 ## ⭐ How to get started with open source?
 <img src="https://github.com/Vi1234sh12/Face-X/blob/master/.github/Assests/isometric.png" height="290px" align="right"/>
 
@@ -23,6 +25,8 @@ You can refer to the following articles on the basics of Git and Github.
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 <br>
+
+</div>
 
 <div align="left" style="margin-top:50px;">
 	
