@@ -60,19 +60,7 @@ git clone --depth 1 https://github.com/<your_user_name>/GenAI-Projects.git
 	</tr>
 </table>
 
-## Our valuable Contributors👩‍💻👨‍💻
 
-<p align="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/yagyesh-bobde/repositories/GenAI-Projects/contributors?format=svg&limit=54" width="600" height"250" />
-</p>
-
-<br>
-
-<p align="right">(<a href="#top">Back to top</a>)</p>
-
-<hr>
-
-<div align="center">
 
 ### Show some ❤️ by starring this awesome Repository!
 
