@@ -65,7 +65,9 @@ h1 {
 p {
   line-height: 1.5;
   margin-bottom: 20px;
-  font-size: 18px;
+  font-size: 22px;
+  color: white;
+  font-weight: 600;
 }
 
 .container {
