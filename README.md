@@ -62,6 +62,8 @@ You can refer to the following articles on the basics of Git and Github.
 
 
 <div id="contributing" ></div>
+
+
 ## 💥 How to Contribute to GenAI?
 
 - Take a look at the Existing [Issues](https://github.com/yagyesh-bobde/GenAI-Projects/issues) or create your own Issues!
@@ -83,15 +85,19 @@ git checkout -b <your-branch-name>
 <br>
 
 Please follow the Contribution Guidelines for more details.   <br>
+
 <div id="codeofconduct"></div>
+
 <hr>
+
 ## Code of Conduct
 This project adheres to a Code of Conduct to ensure a welcoming and inclusive community. Please review and follow it.
 </div>
 
-
 <hr>
+
 <div id="license"></div>
+
 ## License
 This repository is licensed under the MIT License. Feel free to fork, modify, and distribute the code in accordance with the license terms.
 
