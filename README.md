@@ -1,6 +1,33 @@
 # GenAI-Projects
-A wide curration of open-source projects and applications in the emerging field of generative AI.  <br>
+Welcome to the Generative AI Projects Repository! This repository is a collaborative space for enthusiasts and developers interested in exploring and contributing to various generative AI projects. Whether you're into text generation, image synthesis, or experimenting with custom machine learning models in the generative AI domain, this is the place for you.
+<br>
 
+## Table of Contents
+- [Introduction](/#introduction)
+- [Projects](/#projects)
+- [Contributing](/#contributing)
+- [Code of Conduct](#codeofconduct)
+- [License](/#license)
+- [Contributors](/#contributors)
+
+<div id="introduction"></div>
+## Introduction
+Generative AI is an exciting field that involves creating machines capable of producing content, whether it's text, images, or other types of data. This repository aims to bring together a diverse collection of generative AI projects, ranging from text-generation tools for websites and mobile apps to custom machine learning models that push the boundaries of creativity.
+
+<div id="projects"></div>
+## Projects
+### Text Generation Tool for Websites/Extensions
+Create and contribute text-generation tools that can be easily integrated into websites. This could include chatbots, content generators, or other applications that leverage generative AI to enhance user experience.
+
+### Mobile App Text Generation
+Develop mobile applications that use generative AI to generate creative and contextually relevant text. These apps could be anything from storytelling apps to AI-powered writing assistants.
+
+### Custom ML Models
+Experiment with and share your own custom machine learning models in the generative AI domain. This might involve training models on unique datasets, exploring novel architectures, or combining generative AI techniques with other fields.
+
+#### *feel free to share your own ideas on what you want to do or what could be done!
+
+Feel free to propose new project ideas, discuss potential collaborations, or seek help with ongoing projects in the Issues section.
 <div align="center">
 <a href="https://github.com/akshitagupta15june/Face-X/issues"><img src="https://img.shields.io/github/issues/yagyesh-bobde/GenAI-Projects"></a>
 <a href="https://github.com/akshitagupta15june/Face-X/pulls"><img src="https://img.shields.io/github/issues-pr/yagyesh-bobde/GenAI-Projects"></a>
@@ -29,20 +56,42 @@ You can refer to the following articles on the basics of Git and Github.
 </div>
 
 <div align="left" style="margin-top:50px;">
-	
+
+
+
+<div id="contributing" ></div>
 ## 💥 How to Contribute to GenAI?
 
 - Take a look at the Existing [Issues](https://github.com/yagyesh-bobde/GenAI-Projects/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you.
-- Fork the repository
-- Clone your forked copy of the project.
+1. Fork the repository
+2. Clone your forked copy of the project.
 
 ```
 git clone --depth 1 https://github.com/<your_user_name>/GenAI-Projects.git
 
 ```
+3. Create a new branch for your feature or bug fix.
+```
+git checkout -b <your-branch-name>
+```
+4. Commit your changes and push to your fork.
+5. Submit a pull request, detailing the changes you've made.
+
 <br>
+
+Please follow the Contribution Guidelines for more details.   <br>
+<div id="codeofconduct"></div>
+<hr>
+## Code of Conduct
+This project adheres to a Code of Conduct to ensure a welcoming and inclusive community. Please review and follow it.
 </div>
+
+
+<hr>
+<div id="license"></div>
+## License
+This repository is licensed under the MIT License. Feel free to fork, modify, and distribute the code in accordance with the license terms.
 
 ## ❤️ Project Admin
 
@@ -59,7 +108,6 @@ git clone --depth 1 https://github.com/<your_user_name>/GenAI-Projects.git
 		</td>
 	</tr>
 </table>
-
 
 
 ### Show some ❤️ by starring this awesome Repository!
