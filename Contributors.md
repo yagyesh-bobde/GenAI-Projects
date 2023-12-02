@@ -4,7 +4,7 @@ A heartfelt thank you to all the contributors who have dedicated their time and 
 
 ## Thank You
 
-Please edit this file and add your github username and github link to the list below if you have contributed to this project. Thank You For Your Contribution to the project.
+Please edit this file and add your github username and github link to the list below if you have contributed to this project. Thank You🙇‍♂️ so much Your amazing Contribution to the project.
 
 List of Contributors :
 - [@nelsonuprety1](https://github.com/nelsonuprety1)
