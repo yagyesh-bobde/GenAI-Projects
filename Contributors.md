@@ -6,7 +6,7 @@ A heartfelt thank you to all the contributors who have dedicated their time and 
 
 Please edit this file and add your github username and github link to the list below if you have contributed to this project.
 
-List of Contributors:
+List of Contributors :
 - [@nelsonuprety1](https://github.com/nelsonuprety1)
 
 ## How to Contribute
