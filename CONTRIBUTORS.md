@@ -1,13 +1,48 @@
-# Contributors
-
-A heartfelt thank you to all the contributors who have dedicated their time and effort to improve this project. Your contributions are immensely appreciated!
-
-## Thank You
-
 Please edit this file and add your github username and github link to the list below if you have contributed to this project. Thank You🙇‍♂️ so much Your amazing Contribution to the project.
 
 List of Contributors :
-- [@nelsonuprety1](https://github.com/nelsonuprety1)
+<table>
+<tr>
+<th>
+No.
+</th>
+<th>
+Name
+</th>
+<th>
+Proile
+</th>
+</tr>
+<tr>
+<td>
+0.
+</td>
+<td>
+Yagyesh Bobde (Project Admin)
+</td>
+<td>
+
+[@yagyesh-bobde](https://github.com/yagyesh-bobde)
+</td>
+</tr>
+<tr>
+<td>
+1.
+</td>
+<td>
+Nelson Uprety
+</td>
+<td>
+
+[@nelsonuprety1](https://github.com/nelsonuprety1)
+</td>
+</tr>
+</table>
+
+
+# Contributors
+
+A heartfelt thank you to all the contributors who have dedicated their time and effort to improve this project. Your contributions are immensely appreciated!
 
 ## How to Contribute
 
