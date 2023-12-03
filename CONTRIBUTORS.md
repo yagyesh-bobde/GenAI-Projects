@@ -10,7 +10,7 @@ No.
 Name
 </th>
 <th>
-Proile
+Profile
 </th>
 </tr>
 <tr>
