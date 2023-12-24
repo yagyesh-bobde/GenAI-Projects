@@ -66,10 +66,14 @@ cd GenAI-Projects
 ```bash
 git checkout -b fix-issue-<ISSUE-NUMBER>
 ```
+7. Create your project folder inside your selected domain (text-to-image or something else). Give it a Unique name.
+```
+for example- if you created a text-to-speech api then in that domain create your folder
+Text-To-Speech/SpeechCreatorAPI
+```
+8.  Make your changes to the codebase. Test your changes to make sure they work as expected.
 
-7.  Make your changes to the codebase. Test your changes to make sure they work as expected.
-
-8. After done you can now push this changes. for doing that follow the following command chain
+9. After done you can now push this changes. for doing that follow the following command chain
    - `git status` (Shows the changed files)
    - `git add .` (Will add all the files to staging area)
    - `git commit -m "feat/docs/fix: :emoji-name: <EXPLAIN-YOUR_CHANGES>"`
@@ -77,16 +81,16 @@ git checkout -b fix-issue-<ISSUE-NUMBER>
 
 - **NOTE**: A PR should have only one commit. Multiple commits should be squashed.
 
-9.  Create a Pull Request:
+10.  Create a Pull Request:
 - Go to your forked GitHub repository and navigate to the Pull Request section.
 - Click on the pop-up that says "Pull Request" to be redirected to the pull request page.
 - Fill in the form template of the pull request, adding a title and description that explain your contribution.
 - Include screenshots if they help clarify the enhancement/implementation/bug/documentation.
 - Click on **Submit** to create the pull request*
 
-10. Hurrey! You just did your contribution to this project 🎉
+11. Hurrey! You just did your contribution to this project 🎉
 
-11. Wait for your pull request to be reviewed and merged.
+12. Wait for your pull request to be reviewed and merged.
 
 >NOTE: Please make sure to follow the [Code of conduct](https://github.com/yagyesh-bobde/GenAI-Projects/blob/main/CODE_OF_CONDUCT.md) while contributing.
 
