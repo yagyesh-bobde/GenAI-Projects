@@ -2,6 +2,32 @@
 
 This documentation contains a set of guidelines to help you during the contribution process.
 
+## Creating New issues
+1. Go to the issues tab ![image](https://github.com/yagyesh-bobde/GenAI-Projects/assets/90238742/1a0380f8-8248-4f2e-a8e0-a0e987184e32)
+2. Click on **New Issue**
+3. Add the title of the project/error/bug
+4. Write the description: The description should of the following or similar format:
+<br/>
+
+<div style="background: #e5e5e5">
+
+# Project Name
+
+## Project Description or About
+
+## Tech Stack
+
+## Final output
+Jupyter file, website, app, python program etc.
+
+## Submission
+- [ ] Code reviewed
+- [ ] Working demo
+- [ ] Tasks completed
+
+</div>
+
+
 ## Submitting Contributions👩‍📈
 
 Below you will find the process and workflow used to review and merge your changes.
