@@ -9,7 +9,7 @@ This documentation contains a set of guidelines to help you during the contribut
 4. Write the description: The description should of the following or similar format:
 <br/>
 
-<div style="background: #e5e5e5">
+```
 
 # Project Name
 
@@ -25,7 +25,7 @@ Jupyter file, website, app, python program etc.
 - [ ] Working demo
 - [ ] Tasks completed
 
-</div>
+```
 
 
 ## Submitting Contributions👩‍📈
