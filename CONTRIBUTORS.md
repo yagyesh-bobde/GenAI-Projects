@@ -1,43 +1,8 @@
-Please edit this file and add your github username and github link to the list below if you have contributed to this project. Thank You🙇‍♂️ so much Your amazing Contribution to the project.
-
 ## List of Contributors :
 <table>
-<tr>
-<th>
-No.
-</th>
-<th>
-Name
-</th>
-<th>
-Profile
-</th>
-</tr>
-<tr>
-<td>
-0.
-</td>
-<td>
-Yagyesh Bobde (Project Admin)
-</td>
-<td>
-
-[@yagyesh-bobde](https://github.com/yagyesh-bobde)
-</td>
-</tr>
-<tr>
-<td>
-1.
-</td>
-<td>
-Nelson Uprety
-</td>
-<td>
-
-[@nelsonuprety1](https://github.com/nelsonuprety1)
-</td>
-</tr>
-</table>
+<tr><th>No.</th><th>Name</th><th>Profile</th></tr>
+<tr><td>0.</td><td>Yagyesh Bobde (Project Admin)</td><td>[@yagyesh-bobde](https://github.com/yagyesh-bobde)</td></tr>
+<tr><td>1.</td><td>Nelson Uprety</td><td>[@nelsonuprety1](https://github.com/nelsonuprety1)</td></tr></table>
 
 
 # Contributors
@@ -53,5 +18,7 @@ We welcome contributions from everyone! Here's how you can get started:
 3. Make your changes and commit: `git commit -m "Add your feature"`.
 4. Push to your fork: `git push origin feature/your-feature`.
 5. Submit a pull request with a clear description of your changes.
+
+Read the Contribution guideline in more detail [here]().
 
 Thank you for being part of our community! 🙌
