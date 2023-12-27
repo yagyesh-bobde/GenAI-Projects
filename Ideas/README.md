@@ -6,7 +6,8 @@ And even if all of us can't create all the ideas in our heads in code maybe ther
 
 <table width="100%">
 <tr>
-<th>No.</th><th>Title</th><th>Description</th><th>Tags</th><th>Innovator Name</th><th>Repo Link(optional)</th>
+<th>No.</th><th>Title</th><th>Description</th><th>Tags</th><th>Innovator Name</th><th>Repo Link(optional)</th></tr>
+<tr>
 <td>1</td><td>Reciept Based Finance Planner</td><td>A mobile applicaiton which scans a receipt, and auto tags it creates a personalised dashboard, gives investing suggestions and recommendations to improve your finance planning based on your spending. <i>You don't have to share any kind of details like credit or anything just scan the recipt like a qr and the app will do the rest</i> <br/>
 I am not sure but I think we can add a web3 aspect to this as well.
 </td>
@@ -17,6 +18,6 @@ I am not sure but I think we can add a web3 aspect to this as well.
     <li>Flutter/React Native</li>
     <li>Finance</li>
 </ul>
-</td><td>Innovator Name</td><td>Repo Link(optional)</td>
+</td><td><a href="https://github.com/yagyesh-bobde" target="_blank">Yagyesh Bobde</a></td><td>Not started</td>
 </tr>
 </table>
