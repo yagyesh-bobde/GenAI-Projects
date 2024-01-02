@@ -20,4 +20,17 @@ I am not sure but I think we can add a web3 aspect to this as well.
 </ul>
 </td><td><a href="https://github.com/yagyesh-bobde" target="_blank">Yagyesh Bobde</a></td><td>Not started</td>
 </tr>
+<tr>
+<td>2</td><td>Mobile Usage Tracker</td><td>A mobile application which can track the user's daily use of mobile and gives a result of how much time a user spent of different applications. An AI will be integrated which will recommend user to spend a definite amount of time on those applications which are used for many hours prior to other applications.It will also refer user to use those apps which will prefer to its category like increasing productivity,entertainment and others.
+</td>
+<td>
+<ul>
+    <li>React Native/Flutter</li>
+    <li>Gen ai</li>
+    <li>Tracking</li>
+    <li>Recommendation</li>
+</ul>
+</td><td><a href="https://github.com/arkokundu500" target="_blank">Arko Kundu</a></td><td>Not started</td>
+</tr>
+
 </table>
