@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Build files
+/build
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Debugging files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# OS-generated files
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+.Spotlight-V100
+.Trashes
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+*.Trashes
