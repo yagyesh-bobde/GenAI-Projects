@@ -4,7 +4,8 @@
 <tr><td>0.</td><td>Yagyesh Bobde (Project Admin)</td><td>[@yagyesh-bobde](https://github.com/yagyesh-bobde)</td></tr>
 <tr><td>1.</td><td>Nelson Uprety</td><td>[@nelsonuprety1](https://github.com/nelsonuprety1)</td></tr>
 <tr><td>2.</td><td>Rishi Goyal</td><td>[@Spidey358](https://github.com/Spidey358)</td></tr>
-<tr><td>3.</td><td>Arko Kundu</td><td>[@arkokundu500](https://github.com/arkokundu500)</td></tr></table>
+<tr><td>3.</td><td>Arko Kundu</td><td>[@arkokundu500](https://github.com/arkokundu500)</td></tr>
+<tr><td>4.</td><td>S Kamalakar</td><td>[@Sgvkamalakar](https://github.com/Sgvkamalakar)</td></tr></table>
 <tr><td>3.</td><td>Kumar Rohit</td><td>[@k-Rohit](https://github.com/k-Rohit)</td></tr></table>
 
 # Contributors
