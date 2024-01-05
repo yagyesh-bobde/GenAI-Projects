@@ -32,5 +32,17 @@ I am not sure but I think we can add a web3 aspect to this as well.
 </ul>
 </td><td><a href="https://github.com/arkokundu500" target="_blank">Arko Kundu</a></td><td>Not started</td>
 </tr>
+<tr>
+<td>2</td><td>AI Driver Education Platform</td><td>Build a driver education platform where students upload their syllabus, notes, and blog links. Using integrated AI, the platform organizes this content into a clear Markdown file. A chat window assists students with questions and assignments. This system ensures a streamlined learning experience, offering personalized support and optimizing project completion in the field of driver education.
+</td>
+<td>
+<ul>
+    <li>Web</li>
+    <li>Gen ai</li>
+    <li>Chatting</li>
+    <li>Recommendation</li>
+</ul>
+</td><td><a href="https://github.com/kom-senapati" target="_blank">K Om Senapati</a></td><td>Not started</td>
+</tr>
 
 </table>
