@@ -4,7 +4,6 @@
 </p>
 
 
-
 This Streamlit app enables users to perform image captioning and tag extraction using the Google Generative AI service. It utilizes Streamlit for the user interface and Google's Generative AI library for image analysis.
 
 ## Access the Web Version
@@ -17,6 +16,12 @@ Explore the app [here](https://image-caption-tagger.streamlit.app/).
 - Error Handling: Validates user-entered API keys and displays specific error messages.
 - Result Display: View the uploaded image alongside its generated caption and tags.
 
+## Dependencies
+- Python 3.10 or above
+- Streamlit
+- PIL (Python Imaging Library)
+- Google Generative AI library
+  
 ## Usage
 - Clone the repository:
   ```bash
@@ -47,8 +52,3 @@ CodeSmith harnesses the power of [Google's Gemini](https://cloud.google.com/gemi
 [LinkedIn](https://www.linkedin.com/in/sgvkamalakar)
 
 
-Dependencies
-Python 3.x
-Streamlit
-PIL (Python Imaging Library)
-Google Generative AI library
