@@ -1,6 +1,7 @@
 ## List of Contributors :
 <table>
 <tr><th>No.</th><th>Name</th><th>Profile</th></tr>
+
 <tr><td>0.</td><td>Yagyesh Bobde (Project Admin)</td><td>
 
 [@yagyesh-bobde](https://github.com/yagyesh-bobde)</td></tr>
@@ -16,10 +17,13 @@
 <tr><td>4.</td><td>S Kamalakar</td><td>
 
 [@Sgvkamalakar](https://github.com/Sgvkamalakar)</td></tr>
-<tr><td>5.</td><td>Kumar Rohit</td><td>
+<tr><td>5.</td><td>Hritik Raj</td><td>
 
-[@k-Rohit](https://github.com/k-Rohit)</td></tr>
-</table>
+[@hritikraj8804](https://github.com/hritikraj8804)</td></tr>
+<tr><td>6.</td><td>Kumar Rohit</td><td>
+
+[@k-Rohit](https://github.com/k-Rohit)</td></tr></table>
+
 
 # Contributors
 
