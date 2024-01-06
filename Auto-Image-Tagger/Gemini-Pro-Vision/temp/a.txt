@@ -1,0 +1,1 @@
+This directory is created to save your uploaded images when you run this app on localhost
