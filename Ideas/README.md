@@ -33,7 +33,19 @@ I am not sure but I think we can add a web3 aspect to this as well.
 </td><td><a href="https://github.com/arkokundu500" target="_blank">Arko Kundu</a></td><td>Not started</td>
 </tr>
 <tr>
-<td>2</td><td>AI Driver Education Platform</td><td>Build a driver education platform where students upload their syllabus, notes, and blog links. Using integrated AI, the platform organizes this content into a clear Markdown file. A chat window assists students with questions and assignments. This system ensures a streamlined learning experience, offering personalized support and optimizing project completion in the field of driver education.
+<td>3</td><td>AI Driver Education Platform</td><td>Build a driver education platform where students upload their syllabus, notes, and blog links. Using integrated AI, the platform organizes this content into a clear Markdown file. A chat window assists students with questions and assignments. This system ensures a streamlined learning experience, offering personalized support and optimizing project completion in the field of driver education.
+</td>
+<td>
+<ul>
+    <li>Web</li>
+    <li>Gen ai</li>
+    <li>Chatting</li>
+    <li>Recommendation</li>
+</ul>
+</td><td><a href="https://github.com/kom-senapati" target="_blank">K Om Senapati</a></td><td>Not started</td>
+</tr>
+<tr>
+<td>4</td><td>AI Health Monitoring System</td><td>Integrate with wearable devices and sensors to collect health data such as heart rate, blood pressure, activity levels, and sleep patterns. Ensure compatibility with commonly used devices to maximize user accessibility.Based on the user's health data and profile, the AI can suggest personalized exercise routines. Consider the user's mobility levels and preferences, providing both gentle exercises for those with limited mobility and more active options for those who are able.
 </td>
 <td>
 <ul>
