@@ -54,7 +54,7 @@ I am not sure but I think we can add a web3 aspect to this as well.
     <li>Chatting</li>
     <li>Recommendation</li>
 </ul>
-</td><td><a href="https://github.com/kom-senapati" target="_blank">K Om Senapati</a></td><td>Not started</td>
+</td><td><a href="https://github.com/hritikraj8804" target="_blank">Hritik Raj</a></td><td>Not started</td>
 </tr>
 
 </table>
