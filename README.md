@@ -3,12 +3,12 @@ Welcome to the Generative AI Projects Repository! This repository is a collabora
 <br>
 
 ## Table of Contents
-- [Introduction](/#introduction)
-- [Projects](/#projects)
-- [Contributing](/#contributing)
-- [Code of Conduct](#codeofconduct)
-- [License](/#license)
-- [Contributors](/#contributors)
+- [Introduction](https://github.com/yagyesh-bobde/GenAI-Projects#introduction)
+- [Projects](https://github.com/yagyesh-bobde/GenAI-Projects#projects)
+- [Contributing](https://github.com/yagyesh-bobde/GenAI-Projects#-how-to-contribute-to-genai)
+- [Code of Conduct](https://github.com/yagyesh-bobde/GenAI-Projects#codeofconduct)
+- [License](https://github.com/yagyesh-bobde/GenAI-Projects#license)
+- [Contributors](https://github.com/yagyesh-bobde/GenAI-Projects#our-contributors)
 
 <div id="introduction"></div>
 
@@ -19,14 +19,89 @@ Generative AI is an exciting field that involves creating machines capable of pr
 
 ## Projects
 
-### Text Generation Tool for Websites/Extensions
-Create and contribute text-generation tools that can be easily integrated into websites. This could include chatbots, content generators, or other applications that leverage generative AI to enhance user experience.
+Explore cutting-edge Generative AI projects, from text summarization to image generation. Unleash creativity with these diverse AI applications.
 
-### Mobile App Text Generation
-Develop mobile applications that use generative AI to generate creative and contextually relevant text. These apps could be anything from storytelling apps to AI-powered writing assistants.
+<table>
+  <tr>
+    <th>Sl No.</th>
+    <th>Name</th>
+    <th>Category</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>AI Text Summarizer App</td>
+    <td>Text Generation</td>
+    <td>Summarize text effortlessly with AI.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/AI-Text-Summarizer-App">AI-Text-Summarizer-App</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Auto Image Tagger</td>
+    <td>Image Processing</td>
+    <td>Automatically tag images using advanced AI.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/Auto-Image-Tagger">Auto-Image-Tagger</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Chatbots</td>
+    <td>Conversational AI</td>
+    <td>Engage users with intelligent chatbots.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/Chatbots">Chatbots</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Fake Text Detection</td>
+    <td>Text Analysis</td>
+    <td>Detect and combat fake text with powerful algorithms.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/Fake-Text-Detection">Fake-Text-Detection</a></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Image to Text</td>
+    <td>Image Recognition</td>
+    <td>Convert images to text using advanced AI vision.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/Image-To-Text">Image-To-Text</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>LLMs (Large Language Models)</td>
+    <td>Natural Language Processing</td>
+    <td>Harness the power of large language models for various applications.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/LLMs">LLMs</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Speech to Text</td>
+    <td>Speech Recognition</td>
+    <td>Transcribe spoken words to text seamlessly.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/Speech-To-Text">Speech-To-Text</a></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Text Generation</td>
+    <td>Text Synthesis</td>
+    <td>Generate creative and coherent text using advanced algorithms.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/Text-Generation">Text-Generation</a></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Text to Image</td>
+    <td>Image Synthesis</td>
+    <td>Transform textual descriptions into vivid images with AI.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/Text-To-Image">Text-To-Image</a></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Text to Speech</td>
+    <td>Speech Synthesis</td>
+    <td>Convert text into natural-sounding speech using AI voices.</td>
+    <td><a href="https://github.com/yagyesh-bobde/GenAI-Projects/tree/main/Text-To-Speech">Text-To-Speech</a></td>
+  </tr>
+</table>
 
-### Custom ML Models
-Experiment with and share your own custom machine learning models in the generative AI domain. This might involve training models on unique datasets, exploring novel architectures, or combining generative AI techniques with other fields.
+
 
 #### *feel free to share your own ideas on what you want to do or what could be done!
 
@@ -85,14 +160,14 @@ git checkout -b <your-branch-name>
 
 <br>
 
-Please follow the Contribution Guidelines for more details.   <br>
+Please follow the [Contribution Guidelines](./CONTRIBUTING.md) for more details.   <br>
 
 <div id="codeofconduct"></div>
 
 <hr>
 
 ## Code of Conduct
-This project adheres to a Code of Conduct to ensure a welcoming and inclusive community. Please review and follow it.
+This project adheres to a [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive community. Please review and follow it.
 </div>
 
 <hr>
