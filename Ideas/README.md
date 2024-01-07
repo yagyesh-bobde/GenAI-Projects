@@ -49,9 +49,9 @@ I am not sure but I think we can add a web3 aspect to this as well.
 </td>
 <td>
 <ul>
-    <li>Web</li>
+    <li>Tracking</li>
     <li>Gen ai</li>
-    <li>Chatting</li>
+    <li>React Native/Flutter</li>
     <li>Recommendation</li>
 </ul>
 </td><td><a href="https://github.com/kom-senapati" target="_blank">K Om Senapati</a></td><td>Not started</td>
