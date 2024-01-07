@@ -22,7 +22,10 @@
 [@hritikraj8804](https://github.com/hritikraj8804)</td></tr>
 <tr><td>6.</td><td>Kumar Rohit</td><td>
 
-[@k-Rohit](https://github.com/k-Rohit)</td></tr></table>
+[@k-Rohit](https://github.com/k-Rohit)</td></tr>
+<tr><td>7.</td><td>K Om Senapati</td><td>
+
+[@kom-senapati](https://github.com/kom-senapati)</td></tr></table>
 
 
 # Contributors
