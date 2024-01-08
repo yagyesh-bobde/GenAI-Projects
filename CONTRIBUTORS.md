@@ -28,7 +28,7 @@
 [@kom-senapati](https://github.com/kom-senapati)</td></tr>
 <tr><td>8.</td></td>Saro Elza Mathew</td><td>
 
-[@Saro259] (https://github.com/Saro259)</td></tr></table>
+[@Saro259](https://github.com/Saro259)</td></tr></table>
 
 # Contributors
 
