@@ -44,6 +44,7 @@ I am not sure but I think we can add a web3 aspect to this as well.
 </ul>
 </td><td><a href="https://github.com/kom-senapati" target="_blank">K Om Senapati</a></td><td>Not started</td>
 </tr>
+    
 <tr>
 <td>4</td><td>AI Health Monitoring System</td><td>Integrate with wearable devices and sensors to collect health data such as heart rate, blood pressure, activity levels, and sleep patterns. Ensure compatibility with commonly used devices to maximize user accessibility.Based on the user's health data and profile, the AI can suggest personalized exercise routines. Consider the user's mobility levels and preferences, providing both gentle exercises for those with limited mobility and more active options for those who are able.
 </td>
@@ -55,6 +56,21 @@ I am not sure but I think we can add a web3 aspect to this as well.
     <li>Recommendation</li>
 </ul>
 </td><td><a href="https://github.com/hritikraj8804" target="_blank">Hritik Raj</a></td><td>Not started</td>
+</tr>
+
+<tr>
+<td>5</td><td>Docx Query Bot</td>
+<td>This idea focuses on streamlining the process of querying and extracting information from documents. Through seamless integration with Gemini or ChatGPT APIs, the Docx Query Bot empowers users to pose queries, extracting relevant data from a document(s) in various formats, including DOCX, PDF, and TXT. Employ advanced NLP techniques to comprehend complex queries and provide accurate information.
+</td>
+<td>
+<ul>
+    <li>Gen AI / LLMs (ChatGPT, Bard, Gemini)</li>
+    <li>Python/Node JS</li>
+    <li>Web Interface</li>
+    <li>Knowledge Extraction</li>
+    <li>Query Processing</li>
+</ul>
+</td><td><a href="https://github.com/sgvkamalakar" target="_blank">Kamalakar</a></td><td>Not started</td>
 </tr>
 
 </table>
