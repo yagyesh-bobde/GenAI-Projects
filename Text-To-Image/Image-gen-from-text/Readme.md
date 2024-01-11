@@ -14,7 +14,7 @@ This is an application where users can provide text as input and receive generat
 Below are the screenshots of the Streamlit app:
 
 1. **Screenshot 1**
-   ![Streamlit App Screenshot 1](link_to_screenshot_1)
+   ![Streamlit App Screenshot 1](https://github.com/k-Rohit/GenAI-Projects/blob/main/Text-To-Image/Image-gen-from-text/Streamlit-app)
 
 2. **Screenshot 2**
    ![Streamlit App Screenshot 2](link_to_screenshot_2)
