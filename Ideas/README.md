@@ -57,6 +57,18 @@ I am not sure but I think we can add a web3 aspect to this as well.
 </ul>
 </td><td><a href="https://github.com/hritikraj8804" target="_blank">Hritik Raj</a></td><td>Not started</td>
 </tr>
+<tr>
+<td>5</td><td>Interactive Story Generator with user Input</td><td>Create a Generative AI system that collaborates with users to generate interactive and dynamic stories. Users can provide initial prompts, characters, or story elements, and the AI will generate a narrative that evolves based on user choices and inputs. The system could employ reinforcement learning to adapt the story based on user preferences and decisions, creating a personalized and engaging storytelling experience.
+</td>
+<td>
+<ul>
+    <li>Tracking</li>
+    <li>Gen ai</li>
+    <li>Natural Language Processing</li>
+    <li>User Interaction Design</li>
+</ul>
+</td><td><a href="https://github.com/Nitinshukla88" target="_blank">Nitin Shukla</a></td><td>Not started</td>
+</tr>
 
 <tr>
 <td>5</td><td>Docx Query Bot</td>
