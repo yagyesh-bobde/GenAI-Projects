@@ -17,7 +17,7 @@ Below are the screenshots of the Streamlit app:
    ![Streamlit App Screenshot 1](https://github.com/k-Rohit/GenAI-Projects/blob/main/Text-To-Image/Image-gen-from-text/Streamlit-app)
 
 2. **Screenshot 2**
-   ![Streamlit App Screenshot 2](link_to_screenshot_2)
+   ![Streamlit App Screenshot 2](https://github.com/k-Rohit/GenAI-Projects/blob/main/Text-To-Image/Image-gen-from-text/Streamlit-app-page2)
 
 ## How to Use
 
