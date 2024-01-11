@@ -26,7 +26,8 @@ Below are the screenshots of the Streamlit app:
    git clone https://github.com/k-Rohit/GenAI-Projects.git
    cd Text-to-Image
    cd Image-gen-from-text
-2. pip install -r requirements.txt
+2. ```bash
+   pip install -r requirements.txt
 3.  ```bash
     streamlit run app.py
 
