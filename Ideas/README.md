@@ -1,4 +1,5 @@
 # Ideas Page
+
 Generative AI is a domain with endless possibilities, the only limit is your imagination.
 And even if all of us can't create all the ideas in our heads in code maybe there are people out there who can help, so why not share your ideas? Why not ask for help and why not make your ideas a reality?
 
@@ -85,4 +86,18 @@ I am not sure but I think we can add a web3 aspect to this as well.
 </td><td><a href="https://github.com/sgvkamalakar" target="_blank">Kamalakar</a></td><td>Not started</td>
 </tr>
 
+<tr>
+<td>7</td><td>AI assistant for game development</td>
+<td>Automates the creation of 3D terrains, buildings, textures for game environments.Populates environments with 3D models of objects, entities according to game mechanics. Automates creation of game models and repeated actions/movements.Allows developers to specify parameters and constraints for world generation.Integrates with game engines like Unity/Unreal for real time rendering.
+</td>
+<td>
+<ul>
+    <li>Gen AI </li>
+    <li>Python/Node JS,C++,C#</li>
+    <li>ML frameworks(Tensorflow etc)</li>
+    <li>Unity/Unreal</li>
+    <li>Natural Language Processing</li>
+</ul>
+</td><td><a href="https://github.com/Fictioknox" target="_blank">Drishti Sharma</a></td><td>Not started</td>
+</tr>
 </table>
