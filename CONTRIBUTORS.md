@@ -28,7 +28,10 @@
 [@kom-senapati](https://github.com/kom-senapati)</td></tr>
 <tr><td>8.</td><td>Aditi Dahiya</td><td>
 
-[@Aditi-Dahiya](https://github.com/Aditi-Dahiya)</td></tr></table>
+[@Aditi-Dahiya](https://github.com/Aditi-Dahiya)</td></tr>
+<tr><td>9.</td><td>Drishti Sharma</td><td>
+
+[@Fictioknox](https://github.com/Fictioknox)</td></tr></table>
 
 
 # Contributors
