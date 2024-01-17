@@ -25,7 +25,11 @@
 [@k-Rohit](https://github.com/k-Rohit)</td></tr>
 <tr><td>7.</td><td>K Om Senapati</td><td>
 
-[@kom-senapati](https://github.com/kom-senapati)</td></tr></table>
+[@kom-senapati](https://github.com/kom-senapati)</td></tr>
+<tr><td>8.</td><td>Nitin Shukla</td><td>
+
+[@Nitinshukla88](https://github.com/Nitinshukla88)</td></tr>
+</table>
 
 
 # Contributors
