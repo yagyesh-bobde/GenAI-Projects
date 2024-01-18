@@ -2,6 +2,8 @@
 
 Curated collection of 63,632 high-quality anime faces for diverse projects involving anime character generation.
 
+## Link: https://www.kaggle.com/datasets/splcher/animefacedataset
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
