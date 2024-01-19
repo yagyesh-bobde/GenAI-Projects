@@ -16,26 +16,26 @@ This project utilizes a DCGAN architecture to generate anime faces, employing a 
 
 ## Generator
 
-![Generator Architecture](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/anime-faces-dcgan/Images/adcgan2.png)
+![Generator Architecture](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/Image-Generation/anime-faces-dcgan/Images/adcgan2.png)
 
 
 ## Discriminator
 
-![Discriminator Architecture](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/anime-faces-dcgan/Images/adcgan3.png)
+![Discriminator Architecture](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/Image-Generation/anime-faces-dcgan/Images/adcgan3.png)
 
 
 ## Example Data
 .
 
-![Example Anime Faces](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/anime-faces-dcgan/Images/adcgan1.png)
+![Example Anime Faces](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/Image-Generation/anime-faces-dcgan/Images/adcgan1.png)
 
 ## Results
 
 Model Gave high accuracy of 93% with minimal loss
 
-![Generated Anime Faces](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/anime-faces-dcgan/Images/adcgan4.png)
+![Generated Anime Faces](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/Image-Generation/anime-faces-dcgan/Images/adcgan4.png)
 
 Graph Showcasing loss of generator and discriminator
 
-![Generated Anime Faces](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/anime-faces-dcgan/Images/adcgan5.png)
+![Generated Anime Faces](https://github.com/adi271001/GenAI-Projects/blob/Anime-GAN/Image-Generation/anime-faces-dcgan/Images/adcgan5.png)
 
