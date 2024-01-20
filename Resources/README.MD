@@ -33,3 +33,10 @@
 <!-- <tr><td>5.</td><td></td><td><a target="_blank" href="">Visit Here</a></td></tr> -->
 
 </table>
+
+#### PlayLists
+<table style="width:100%" >
+<tr><th>No.</th><th>Name</th><th>Link</th></tr>
+<tr><td>1.</td><td>Introduction to LangChain</td><td><a href="https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar" target="_blank">Visit Here</a></td></tr>
+<tr><td>2.</td><td>Generative AI</td><td><a href="https://www.youtube.com/playlist?list=PL6K4zYD8coBRhUrfQmLAZd812Nc0_xwwt" target="_blank">Visit Here</a></td></tr>
+<tr><td>3.</td><td>Generative AI and LLMs</td><td><a href="https://www.youtube.com/playlist?list=PLIUOU7oqGTLgBf0X_KzRlsqyM2Cs7Dxp9" target="_blank">Visit Here</a></td></tr>

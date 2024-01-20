@@ -26,10 +26,17 @@
 <tr><td>7.</td><td>K Om Senapati</td><td>
 
 [@kom-senapati](https://github.com/kom-senapati)</td></tr>
-<tr><td>8.</td><td>Nitin Shukla</td><td>
+<tr><td>8.</td><td>Aditi Dahiya</td><td>
 
+[@Aditi-Dahiya](https://github.com/Aditi-Dahiya)</td></tr>
+<tr><td>9.</td><td>Drishti Sharma</td><td>
+
+[@Fictioknox](https://github.com/Fictioknox)</td></tr>
+<tr><td>10.</td><td>Nitin Shukla</td><td>
+  
 [@Nitinshukla88](https://github.com/Nitinshukla88)</td></tr>
 </table>
+
 
 
 # Contributors
