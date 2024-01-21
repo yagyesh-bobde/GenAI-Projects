@@ -31,7 +31,12 @@
 [@Aditi-Dahiya](https://github.com/Aditi-Dahiya)</td></tr>
 <tr><td>9.</td><td>Drishti Sharma</td><td>
 
-[@Fictioknox](https://github.com/Fictioknox)</td></tr></table>
+[@Fictioknox](https://github.com/Fictioknox)</td></tr>
+<tr><td>10.</td><td>Nitin Shukla</td><td>
+  
+[@Nitinshukla88](https://github.com/Nitinshukla88)</td></tr>
+</table>
+
 
 
 # Contributors
