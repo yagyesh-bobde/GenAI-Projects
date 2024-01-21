@@ -1,6 +1,4 @@
-# LLM Models and Projects
-
-PROJECT TITLE:  Blog Generation
+# Blog Generation using Llama 2
 
 PROBLEM: Writting a Blog is so hectic and after that correcting Grammatical errors is another Headache. Here comes the Solution. Blog Generator where you just need to specify the contents or just the topic name will work for you within 10 seconds!
 
