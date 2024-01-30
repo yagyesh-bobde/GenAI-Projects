@@ -100,4 +100,19 @@ I am not sure but I think we can add a web3 aspect to this as well.
 </ul>
 </td><td><a href="https://github.com/Fictioknox" target="_blank">Drishti Sharma</a></td><td>Not started</td>
 </tr>
+
+<tr>
+<td>8</td><td>AI-Driven Health and Fitness Coach</td>
+<td>Create a comprehensive health and fitness coach powered by AI, which considers individual health data, preferences, and goals. The system generates personalized workout routines, dietary recommendations, and wellness advice. It continually adapts based on user progress, leveraging machine learning for precision. With features like real-time feedback and motivation, the AI coach strives to enhance users' overall well-being by promoting sustainable and tailored health practices.
+</td>
+<td>
+<ul>
+    <li>HealthTech</li>
+    <li>AI Coaching</li>
+    <li>Personalized Fitness</li>
+    <li>Wellness Technology</li>
+    <li>Machine Learning for Health</li>
+</ul>
+</td><td><a href="https://github.com/jiteshpahwa04" target="_blank">Jitesh Pahwa</a></td><td>Not started</td>
+</tr>
 </table>
