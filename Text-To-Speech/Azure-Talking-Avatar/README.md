@@ -1,4 +1,5 @@
 # Azure Text-to-Speech with Avatar
+[![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-red?style=for-the-badge&logo=streamlit)](https://talking-avatar.streamlit.app/)
 
 <p align="center">
   <img src="https://github.com/Sgvkamalakar/Azure-Talking-Avatar/assets/103712713/09fc79f9-cc68-4354-bae7-e75e24add235" width="400" height="400"/>
