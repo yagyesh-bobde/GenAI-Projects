@@ -1,3 +1,4 @@
+!pip install requirements.txt
 import streamlit as st
 from langchain.prompts import PromptTemplate
 from langchain_community.llms import CTransformers
