@@ -34,13 +34,14 @@
 [@Fictioknox](https://github.com/Fictioknox)</td></tr>
 <tr><td>10.</td><td>Nitin Shukla</td><td>
 
-[@Bhoomikagithu](https://github.com/Bhoomikagithu)</td></tr>
-<tr><td>12.</td><td>Jitesh Pahwa</td><td>
-
-[@Fictioknox](https://github.com/Fictioknox)</td></tr>
-<tr><td>10.</td><td>Bhoomika Sharma</td><td>
+[@jiteshpahwa04](https://github.com/jiteshpahwa04)</td></tr>
+<tr><td>11.</td><td>Jitesh Pahwa</td><td>
   
 [@Nitinshukla88](https://github.com/Nitinshukla88)</td></tr>
+
+[@Bhoomikagithu](https://github.com/Bhoomikagithu)</td></tr>
+
+  
 </table>
 
 
