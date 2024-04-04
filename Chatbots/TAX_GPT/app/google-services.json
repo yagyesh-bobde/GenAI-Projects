@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870349213065",
+    "project_id": "chatbot-c0cb1",
+    "storage_bucket": "chatbot-c0cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870349213065:android:79c63670003c77024e2558",
+        "android_client_info": {
+          "package_name": "com.example.income_tax_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzdYQnSevHPQU-1w1YR0FQ4ebhOmH2XCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
