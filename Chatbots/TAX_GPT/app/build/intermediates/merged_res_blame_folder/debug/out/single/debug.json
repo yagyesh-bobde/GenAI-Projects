@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/font_shine.ttf.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/font/shine.ttf"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable_background_splashscreen.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable/background_splashscreen.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/font_bebas.ttf.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/font/bebas.ttf"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable-xxxhdpi_chatgptlogo.jpg.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable-xxxhdpi/chatgptlogo.jpg"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable-xhdpi_chatgptlogo.jpg.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable-xhdpi/chatgptlogo.jpg"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/font_logofont.ttf.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/font/logofont.ttf"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable_lock.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable/lock.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable-hdpi_chatgptlogo.jpg.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable-hdpi/chatgptlogo.jpg"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/layout_chat_item.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable_logout.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable/logout.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/font_comfortaasemibold.ttf.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/font/comfortaasemibold.ttf"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable_send.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable/send.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable_left.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable/left.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/font_comfortaaregular.ttf.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/font/comfortaaregular.ttf"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/layout_activity_login_or_sign_up.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/layout/activity_login_or_sign_up.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable-xxhdpi_chatgptlogo.jpg.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable-xxhdpi/chatgptlogo.jpg"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable-ldpi_chatgptlogo.jpg.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable-ldpi/chatgptlogo.jpg"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable_rounded_corner.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/font_comfortaabold.ttf.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/font/comfortaabold.ttf"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/font_comfortaalight.ttf.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/font/comfortaalight.ttf"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/font_comfortaameduim.ttf.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/font/comfortaameduim.ttf"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/font_dancing.ttf.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/font/dancing.ttf"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable-mdpi_chatgptlogo.jpg.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable-mdpi/chatgptlogo.jpg"
+    },
+    {
+        "merged": "com.example.income_tax_chatbot.app-merged_res-38:/drawable_reset.xml.flat",
+        "source": "com.example.income_tax_chatbot.app-main-40:/drawable/reset.xml"
+    }
+]
