@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background">#07100f</color>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#07100F</color>
+    <color name="light_blue">#1CD6CE</color>
+    <color name="light_red">#FA9884</color>
+    <color name="mtrl_textinput_default_box_stroke_color" ns1:ignore="PrivateResource">#fff</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#b12341</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <string name="_91">+ 91</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="app_name">ChatGPT</string>
+    <string name="back">Back</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="desc">I was trained on a massive dataset of text using a machine learning technique called the transformer architecture. This enables me to understand and generate natural language responses to a wide range of questions and topics.</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account ?</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgot_password_desc">Provide your account\'s email for which you want to reset your password!</string>
+    <string name="full_name">Full Name</string>
+    <string name="gcm_defaultSenderId" translatable="false">870349213065</string>
+    <string name="google_api_key" translatable="false">AIzaSyCzdYQnSevHPQU-1w1YR0FQ4ebhOmH2XCM</string>
+    <string name="google_app_id" translatable="false">1:870349213065:android:79c63670003c77024e2558</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCzdYQnSevHPQU-1w1YR0FQ4ebhOmH2XCM</string>
+    <string name="google_storage_bucket" translatable="false">chatbot-c0cb1.appspot.com</string>
+    <string name="login">Login</string>
+    <string name="main_desc">Hello! I\'m ChatGPT, a language model developed by OpenAI.</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">chatbot-c0cb1</string>
+    <string name="register">Register</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signin">Sign In with ChatGPT</string>
+    <string name="signup_with_chatgpt">Signup with ChatGPt</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_chatgpt">Welcome to ChatGPT</string>
+    <string name="write_here">Write here....</string>
+    <style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/background</item>
+        <item name="android:windowBackground">@drawable/background_splashscreen</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+    <style name="Theme.ChatGPT" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryVariant">@color/background</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.ChatGPTTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/background</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

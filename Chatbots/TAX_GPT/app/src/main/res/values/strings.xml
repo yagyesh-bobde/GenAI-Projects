@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="welcome_to_chatgpt">Welcome to ChatGPT</string>
+    <string name="write_here">Write here....</string>
+    <string name="todo">TODO</string>
+    <string name="desc">I was trained on a massive dataset of text using a machine learning technique called the transformer architecture. This enables me to understand and generate natural language responses to a wide range of questions and topics.</string>
+    <string name="main_desc">Hello! I\'m ChatGPT, a language model developed by OpenAI.</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="signin">Sign In with ChatGPT</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account ?</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="_91">+ 91</string>
+    <string name="full_name">Full Name</string>
+    <string name="signup_with_chatgpt">Signup with ChatGPt</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="forgot_password_desc">Provide your account\'s email for which you want to reset your password!</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back">Back</string>
+</resources>
