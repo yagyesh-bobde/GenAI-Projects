@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2em 8em;
+}
+
+.header-img {
+  max-width: 50%;
+}
+
+.header,
+.button-row {
+  background-color: #0c1d36;
+}
