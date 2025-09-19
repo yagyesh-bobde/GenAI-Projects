@@ -1,6 +1,6 @@
 # AI-Text-Summarizer
 
-## Wokring Application
+## Working Application
 #### Desktop Version
 <img alt="desktop" src="./public/images/output/desktop.png" >  
 
