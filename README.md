@@ -13,7 +13,7 @@ Welcome to the Generative AI Projects Repository! This repository is a collabora
 <div id="introduction"></div>
 
 <center>
-[![Star History Chart](https://api.star-history.com/svg?repos=yagyesh-bobde/GenAI-Projects&type=Date)](https://www.star-history.com/#yagyesh-bobde/GenAI-Projects&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=yagyesh-bobde/GenAI-Projects&type=Date)](https://www.star-history.com/#yagyesh-bobde/GenAI-Projects&Date)
 </center>
 
 ## Introduction
