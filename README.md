@@ -12,9 +12,7 @@ Welcome to the Generative AI Projects Repository! This repository is a collabora
 
 <div id="introduction"></div>
 
-<center>
 ![Star History Chart](https://api.star-history.com/svg?repos=yagyesh-bobde/GenAI-Projects&type=Date)](https://www.star-history.com/#yagyesh-bobde/GenAI-Projects&Date)
-</center>
 
 ## Introduction
 Generative AI is an exciting field that involves creating machines capable of producing content, whether it's text, images, or other types of data. This repository aims to bring together a diverse collection of generative AI projects, ranging from text-generation tools for websites and mobile apps to custom machine learning models that push the boundaries of creativity.
