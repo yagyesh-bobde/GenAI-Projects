@@ -1,0 +1,8 @@
+.header {
+  padding: 2em 8em;
+}
+
+.vtt-sub-file,
+.srt-sub-file {
+  height: 80px;
+}

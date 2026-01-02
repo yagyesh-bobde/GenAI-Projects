@@ -1,0 +1,8 @@
+.header {
+  padding: 2em 8em;
+}
+
+.header,
+.button-row {
+  background-color: #1d366f7e;
+}
