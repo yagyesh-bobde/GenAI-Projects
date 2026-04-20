@@ -1,0 +1,1 @@
+fetch('/api/data');
