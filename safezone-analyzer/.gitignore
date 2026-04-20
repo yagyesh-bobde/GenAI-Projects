@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Local DB (created at runtime)
+backend/db/*.db
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+test_repo/.env
+
+# Node / Svelte
+frontend/node_modules/
+frontend/.svelte-kit/
+frontend/build/
+frontend/.output/
+frontend/.vercel/
+frontend/.netlify/
+
+# IDE & local tooling
+.idea/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
